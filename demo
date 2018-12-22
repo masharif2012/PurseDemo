@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <name>Demo Parser</name>
+    <topic>
+        <name>About Java</name>
+        <tutorial>OOP Concept</tutorial>
+        <tutorial>Java Data</tutorial>
+        <tutorial>String Manipulation</tutorial>
+    </topic>
+    <topic>
+    <name>About VB Script</name>
+        <tutorial>QTP or UFT Class</tutorial>
+        <tutorial>Object Repository</tutorial>
+        <tutorial>Object Spy</tutorial>  //if i add new line we just add here no change any other page it will work
+    </topic>
+
+</channel>
+
