@@ -5,7 +5,7 @@ public class Anagram { //it is under String categoryy will come in midterm examp
         String b = "APPLE";                  //Anagram means comparison all the letters are same or not
         String e = "ELpPA";                  //if same it is anagram if not then not annagram
 
-        //isAnagram(b,e);
+        //it isAnagram(b,e);
         System.out.println(isAnagram(b,e));
     }
 
